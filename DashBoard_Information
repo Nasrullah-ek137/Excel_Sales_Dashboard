@@ -1,1 +1,58 @@
+📊 Project Title
+Sales Dashboard Analysis
 
+
+🧾 Description
+Built an interactive Sales Dashboard to analyze business performance using transactional sales data. The dashboard provides insights into revenue, profit, sales trends, customer segments, 
+payment modes, and delivery status to support data-driven decision-making.
+
+🎯 Objectives
+Track overall sales and profit performance
+Analyze monthly sales trends
+Identify top-performing products/categories
+Evaluate payment mode distribution
+Monitor delivery and order status
+
+📂 Repository Contents
+Tu GitHub repo me ye files mention kar sakta hai:
+Sales Dataset (Excel / CSV)
+Dashboard File (Power BI / Excel)
+Data Cleaning Files
+Visualization Screenshots
+README Documentation
+
+Example :
+📁 Data/ → Raw & cleaned sales dataset  
+📁 Dashboard/ → Dashboard file (.pbix / .xlsx)  
+📁 Images/ → Dashboard screenshots  
+README.md → Project documentation
+
+📈 Key Insights Shown in Dashboard
+Total Sales: 27.8M+
+Total Profit: 6.5M+
+Monthly Sales Trend Analysis
+Category-wise Sales Distribution
+Payment Mode Analysis (COD / Card / UPI / Wallet)
+Delivery Status Breakdown
+Top Products & Sub-Categories
+Customer Purchase Behavior
+
+🛠️ Tools & Technologies Used
+Microsoft Excel / Power Query (Data Cleaning)
+Power BI / Excel Dashboard
+DAX / Formulas
+Data Visualization Techniques
+
+🔍 Features
+Interactive Filters & Slicers
+Dynamic KPI Cards
+Drill-down Visuals
+Trend & Comparative Analysis
+User-friendly Layout
+
+▶️ How to Use
+Download dashboard file
+Open in Excel / Power BI
+Use slicers to filter data
+
+Analyze KPIs & charts
